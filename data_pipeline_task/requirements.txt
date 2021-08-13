@@ -1,0 +1,6 @@
+bs4~=4.9.3
+lxml~=4.6.3
+pyarrow~=4.0.1
+requests~=2.26.0
+sqlite3
+warcio~=1.7.4
